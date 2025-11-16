@@ -58,9 +58,9 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-4xl font-bold neon-text text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-400">
-                NeoGames
+                Game-space
               </h1>
-              <p className="text-sm text-slate-400 mt-2">Modern gaming experience with neon aesthetics</p>
+
             </div>
             <div className="flex gap-2 items-center">
               <div className="h-3 w-3 rounded-full bg-gradient-to-r from-purple-500 to-blue-500 animate-pulse" />
@@ -116,7 +116,7 @@ export default function Home() {
       <footer className="relative z-10 border-t border-purple-500/30 backdrop-blur-md mt-16">
         <div className="max-w-7xl mx-auto px-4 py-8">
           <div className="flex items-center justify-between">
-            <p className="text-xs text-slate-500">© 2025 NeoGames. Built with React & Next.js</p>
+            <p className="text-xs text-slate-500">© 2025 IBTISSAM RHIRHA. Built with React & Next.js</p>
             <div className="flex gap-4">
               <a href="#" className="text-xs text-slate-400 hover:text-purple-400 transition-colors">About</a>
               <a href="#" className="text-xs text-slate-400 hover:text-purple-400 transition-colors">Contact</a>
